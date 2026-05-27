@@ -1,0 +1,23 @@
+/* Use different colors as requested: #002147 and #d2b48c */
+.navbar-custom {
+    background-color: #002147 !important;
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: #d2b48c !important;
+}
+.navbar-custom .nav-link:hover {
+    color: #fff !important;
+}
+.btn-custom {
+    background-color: #002147 !important;
+    color: #d2b48c !important;
+    border: none;
+}
+.btn-custom:hover {
+    background-color: #001630 !important;
+    color: #fff !important;
+}
+.text-custom {
+    color: #002147 !important;
+}
